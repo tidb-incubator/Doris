@@ -4,7 +4,7 @@
 
 #### Summary
 
-TiDB and Doris are both decent opensource relational data database. TiDB is a fusion distributed database product, while Doris is more focused on the OLAP field. If TiDB can hand over part of the OLAP analysis task to Doris, it can realize efficient large-scale OLAP analysis with the help of Doris's physical and chemical view, aggregation model and other advantages. Doris design documentation and related content can be found on the [official website of Doris](https://doris.apache.org/).
+TiDB and Doris are both decent opensource relational data database. TiDB is a fusion distributed database product, while Doris is more focused on the OLAP field. If TiDB can hand over part of the OLAP analysis task to Doris, it can realize efficient large-scale OLAP analysis with the help of Doris's materialized view, aggregation model and other advantages. Doris design documentation and related content can be found on the [official website of Doris](https://doris.apache.org/).
 
 
 #### EXPLANATION OF THE DORIS VOCABULARY
